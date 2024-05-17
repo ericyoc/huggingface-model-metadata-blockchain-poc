@@ -23,7 +23,7 @@ Blockchain is a decentralized, distributed ledger technology that enables secure
 
 ## Blockchain Registry
 
-![Results](https://github.com/ericyoc/huggingface-model-metadata-blockchain-poc/blob/main/models_metadata.csv)
+[Results](https://github.com/ericyoc/huggingface-model-metadata-blockchain-poc/blob/main/models_metadata.csv)
 
 ## Contributing
 
