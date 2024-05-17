@@ -4,6 +4,11 @@
 
 This project demonstrates the registration of pre-trained models found on [Hugging Face](https://huggingface.co/) using blockchain technology. The code fetches random pre-trained models from the Hugging Face Model Hub, extracts metadata about each model, and registers it in a blockchain. This process ensures the integrity of the models, safeguarding against adversarial modifications.
 
+## Motivating Articles
+Bouchiha, M. A., Telnoff, Q., Bakkali, S., Champagnat, R., Rabah, M., Coustaty, M., & Ghamri-Doudane, Y. (2024). LLMChain: Blockchain-based Reputation System for Sharing and Evaluating Large Language Models. arXiv preprint arXiv:2404.13236. https://arxiv.org/abs/2404.13236
+
+Y. Liu et al., "Blockchain-Empowered Lifecycle Management for AI-Generated Content Products in Edge Networks," in IEEE Wireless Communications, doi: 10.1109/MWC.003.2300053. https://ieeexplore.ieee.org/document/10422884
+
 ## Huggingface Platform
 
 [Hugging Face](https://huggingface.co/) is a leading platform for natural language processing (NLP) models and resources. It hosts a vast collection of pre-trained models, datasets, and other NLP tools, facilitating research and development in the field.
