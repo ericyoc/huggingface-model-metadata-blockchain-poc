@@ -28,7 +28,7 @@ Blockchain is a decentralized, distributed ledger technology that enables secure
 5. Check the saved CSV file (`models_metadata.csv`) for model metadata.
 6. Inspect the blockchain data saved in JSON format (`blockchain_data.json`).
 
-## Model Collection 
+## Huggingface Model Collection (Five Random Models)
 
 [Model Collection Results](https://github.com/ericyoc/huggingface-model-metadata-blockchain-poc/blob/main/models_metadata.csv)
 
