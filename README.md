@@ -9,6 +9,8 @@ Bouchiha, M. A., Telnoff, Q., Bakkali, S., Champagnat, R., Rabah, M., Coustaty, 
 
 Y. Liu et al., "Blockchain-Empowered Lifecycle Management for AI-Generated Content Products in Edge Networks," in IEEE Wireless Communications, doi: 10.1109/MWC.003.2300053. https://ieeexplore.ieee.org/document/10422884
 
+Gschnaidtner, Christoph and Dehghan, Robert and Hottenrott, Hanna and Schwierzy, Julian, Adoption and Diffusion of Blockchain Technology ( 2024). ZEW - Centre for European Economic Research Discussion Paper No. 24-018, Available at SSRN: https://ssrn.com/abstract=4775993 or http://dx.doi.org/10.2139/ssrn.4775993
+
 ## Huggingface Platform
 
 [Hugging Face](https://huggingface.co/) is a leading platform for natural language processing (NLP) models and resources. It hosts a vast collection of pre-trained models, datasets, and other NLP tools, facilitating research and development in the field.
